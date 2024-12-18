@@ -1,0 +1,23 @@
+{
+  "name": "corvusgrimoire",
+  "version": "0.1.0",
+  "description": "A dark-fantasy inspired coding challenge platform with evolving AI puzzles",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coding",
+    "challenge",
+    "dark-fantasy",
+    "express",
+    "LLM"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
